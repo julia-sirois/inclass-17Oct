@@ -12,3 +12,10 @@ library(ggplot2)
 library(here)
 ```
 
+Now look at some built in data
+
+```{r}
+View(cars)
+
+```
+
