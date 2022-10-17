@@ -1,0 +1,14 @@
+---
+title: "Class_17oct"
+output: html_notebook
+---
+
+Set things up
+
+```{r}
+rm(list = ls())
+library(dplyr)
+library(ggplot2)
+library(here)
+```
+
